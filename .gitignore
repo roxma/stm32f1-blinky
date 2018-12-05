@@ -1,0 +1,10 @@
+/build
+
+/en.stsw-stm32078.zip
+/an3268
+
+/en.stsw-stm32054.zip
+/STM32F10x_StdPeriph_Lib_V3.5.0
+
+/cscope.*
+/.clang_complete
